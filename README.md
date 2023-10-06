@@ -7,3 +7,5 @@ Un échantillon de ce jeu de données à été utilisé pour entraîner le modè
 L'annotation a été effectué avec Roboflow, l'échantillon est disponible sur ce [lien](https://universe.roboflow.com/idir-sadaoui-qgzta/butterfly-smcqg).
 
 Entraînement effectué sur Google colab avec GPU T4.
+
+Algorithme : YoloV8
